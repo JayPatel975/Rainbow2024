@@ -8,4 +8,5 @@ Green
 Blue
 Violet 
 Indego 
-Monkey
+Monkey 
+Monkey love bannana yum
